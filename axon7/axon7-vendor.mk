@@ -407,9 +407,11 @@ PRODUCT_COPY_FILES += \
     vendor/zte/axon7/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
     vendor/zte/axon7/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
     vendor/zte/axon7/proprietary/lib64/libmodemapi.so:system/lib64/libmodemapi.so \
+    vendor/zte/axon7/proprietary/lib64/libvendorutils.so:system/lib64/libvendorutils.so \
     vendor/zte/axon7/proprietary/lib64/libztecfg.so:system/lib64/libztecfg.so \
     vendor/zte/axon7/proprietary/lib/libmodemapi.so:system/lib/libmodemapi.so \
     vendor/zte/axon7/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
+    vendor/zte/axon7/proprietary/lib/libvendorutils.so:system/lib/libvendorutils.so \
     vendor/zte/axon7/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
     vendor/zte/axon7/proprietary/lib/libztecfg.so:system/lib/libztecfg.so \
     vendor/zte/axon7/proprietary/vendor/bin/mm-pp-dpps:system/vendor/bin/mm-pp-dpps \
