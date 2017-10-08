@@ -109,6 +109,8 @@ PRODUCT_COPY_FILES += \
     vendor/zte/axon7/proprietary/lib/libtfa9890.so:system/lib/libtfa9890.so \
     vendor/zte/axon7/proprietary/vendor/firmware/libpn548ad_fw.so:system/vendor/firmware/libpn548ad_fw.so \
     vendor/zte/axon7/proprietary/vendor/lib/libactuator_ak7371.so:system/vendor/lib/libactuator_ak7371.so \
+    vendor/zte/axon7/proprietary/vendor/lib/libactuator_interface.so:system/vendor/lib/libactuator_interface.so \
+    vendor/zte/axon7/proprietary/vendor/lib/libactuator_update_interface.so:system/vendor/lib/libactuator_update_interface.so \
     vendor/zte/axon7/proprietary/vendor/lib/libchromaflash.so:system/vendor/lib/libchromaflash.so \
     vendor/zte/axon7/proprietary/vendor/lib/libchromatix_ov8856_a3_default_preview.so:system/vendor/lib/libchromatix_ov8856_a3_default_preview.so \
     vendor/zte/axon7/proprietary/vendor/lib/libchromatix_ov8856_a3_default_video.so:system/vendor/lib/libchromatix_ov8856_a3_default_video.so \
